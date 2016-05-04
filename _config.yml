@@ -1,0 +1,28 @@
+name: LargeSparge
+favicon: null
+layout_spectrum: 0.42185443127527833
+typography_spectrum: 0.9382195530924946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17150690616108477
+  lightness: 0.28647146723233163
+  saturation: 0.07434555096551776
+  rhythmicContrast: 0.44381008041091263
+purpose: []
